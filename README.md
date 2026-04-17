@@ -17,13 +17,9 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=c" height="50" alt="C" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="50" alt="Canva" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" height="50" alt="Insomnia" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" />
   <img width="12" />
@@ -38,6 +34,8 @@
   <img src="https://img.icons8.com/?size=100&id=22813&format=png&color=000000" height="50" alt="AArch64" />
   <img width="12" />
   <img src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" height="50" alt="AArch64" />
+  <img width="12" />
+  <img src="https://img.icons8.com/color/48/sap.png" height="50" alt="sap"/>
 </div>
 
 ###
